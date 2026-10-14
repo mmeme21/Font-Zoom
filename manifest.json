@@ -1,0 +1,9 @@
+{
+  "id": "pinch-font-size",
+  "name": "Font Zoom",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Pinch with two fingers to change the note font size on mobile. Only affects note text, not the app interface.",
+  "author": "Krishna",
+  "isDesktopOnly": false
+}
